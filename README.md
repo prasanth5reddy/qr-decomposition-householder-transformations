@@ -3,7 +3,6 @@
 A numerically stable Householder reflections algorithm for computing QR decomposition of matrix A.
 
 ## Running instructions
------------------
 ### QR decomposition
 To compute QR decomposition using householder reflections, run the matlab file `qr_decomposition_house_holder.m` and verify the constraints.
 
